@@ -10,5 +10,17 @@ link-citations: yes
 description: "This is a book."
 ---
 
+# Merry Christmas
+
 `r url <-"judgelord.github.io/book"`
 `r github.com <-"github.com/judgelord"`
+
+This is a book by @You2021. 
+
+It will be published as 
+
+- a gitbook website: https://judgelord.github.io/book
+- an ebook: https://judgelord.github.io/book/book.epub
+- a book-typeset pdf: https://judgelord.github.io/book/book.pdf
+
+Download the word version of your book at https://judgelord.github.io/book/book.docx, add content to it, and send it to me. I will upload your edits. Or, you can edit it yourself at https://github.com/judgelord/book/body.md
