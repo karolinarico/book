@@ -7,13 +7,10 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a book."
+description: "A book." # For sharing on social media
 ---
 
 # Merry Christmas
-
-`r url <-"judgelord.github.io/book"`
-`r github.com <-"github.com/judgelord"`
 
 This is a book by @You2021. 
 
@@ -23,4 +20,4 @@ It will be published as
 - an ebook: https://judgelord.github.io/book/book.epub
 - a book-typeset pdf: https://judgelord.github.io/book/book.pdf
 
-Download the word version of your book at https://judgelord.github.io/book/book.docx, add content to it, and send it to me. I will upload your edits. Or, you can edit it yourself at https://github.com/judgelord/book/body.md
+Download the Word version of your book at https://judgelord.github.io/book/book.docx, add content (writing, pictures, whatever), and send it to me. I will upload your edits. Or, you can edit it yourself at https://github.com/judgelord/book/blob/main/body.md
