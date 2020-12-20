@@ -1,0 +1,11 @@
+book_filename: "book"
+output_dir: "docs"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files:
+  html: ["index.Rmd", "body.md", "references.Rmd"]
+  latex: ["index.Rmd", "body.md", "references.Rmd"]
+  epub: ["index.Rmd", "body.md", "references.Rmd"]
+  docx: ["index.Rmd", "body.md", "references.Rmd"]
