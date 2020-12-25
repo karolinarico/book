@@ -1,6 +1,6 @@
 --- 
 title: "A Book"
-author: "by Devin Judge-Lord"
+author: "by Karolina Rico"
 # date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -16,8 +16,8 @@ This is a book by @You2021.
 
 It will be published as 
 
-- a gitbook website: https://judgelord.github.io/book
-- an ebook: https://judgelord.github.io/book/book.epub
-- a book-typeset pdf: https://judgelord.github.io/book/book.pdf
+- a gitbook website: https://KarolinaRico.github.io/book
+- an ebook: https://KarolinaRico.github.io/book/book.epub
+- a book-typeset pdf: https://KarolinaRico.github.io/book/book.pdf
 
-Download the Word version of your book at https://judgelord.github.io/book/book.docx, add content (writing, pictures, whatever), and send it to me. I will upload your edits. Or, you can edit it yourself at https://github.com/judgelord/book/blob/main/body.md
+Download the Word version of your book at https://KarolinaRico.github.io/book/book.docx, add content (writing, pictures, whatever), and send it to me. I will upload your edits. Or, you can edit it yourself at https://github.com/KarolinaRico/book/blob/main/body.md
